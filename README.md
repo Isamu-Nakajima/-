@@ -57,4 +57,4 @@ sudo rmmodmyled
 <https://youtu.be/Vf8Q6rbLqN8>
 
 ##  参考文献
-モールス符号の点と線の長さ<http://k-hiura.cocolog-nifty.com/blog/2019/03/post-579f.html>
+モールス符号の点と線の長さ:<http://k-hiura.cocolog-nifty.com/blog/2019/03/post-579f.html>
