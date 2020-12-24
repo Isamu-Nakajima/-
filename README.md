@@ -37,7 +37,7 @@ make
 sudo insmod myled.ko
 sudo chmod 666 /dev/myled0
 ```
-またモジュールをアンインストールするときは
+またモジュールが既に入っていたりしてアンインストールするときは
 ```
 sudo rmmod myled
 ```
